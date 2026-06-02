@@ -1,0 +1,7 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Play With Me">
+  <rect width="512" height="512" fill="#eef4ef" />
+  <circle cx="196" cy="224" r="72" fill="#5b9e74" />
+  <circle cx="318" cy="266" r="92" fill="#3f7d57" />
+  <path d="M256 400 q-16 -52 40 -82" fill="none" stroke="#e0a83c" stroke-width="20" stroke-linecap="round" />
+  <circle cx="196" cy="209" r="13" fill="#fff" /><circle cx="318" cy="251" r="15" fill="#fff" />
+</svg>
